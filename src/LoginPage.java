@@ -9,5 +9,10 @@ public class LoginPage
 		
 		return "Google";
 	}
+	
+	public void URLFeature()
+	{
+		System.out.println("URL-Feature");
+	}
 
 }
